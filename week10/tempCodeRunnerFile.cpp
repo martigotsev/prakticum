@@ -1,0 +1,13 @@
+int martix[size][size];
+    // fillMatrix(martix, rows, cols);
+    // printMatrix(martix, rows, cols);
+    // int number;
+    // cout << "number=";
+    // cin >> number;
+    // int numberOfRow;
+    // int numberOfCol;
+    // findCoords(martix, number, rows, cols, numberOfRow, numberOfCol);
+    // cout << "number of row";
+    // cin >> numberOfRow;
+    // cout << "number of col";
+    // cout << numberOfCol;

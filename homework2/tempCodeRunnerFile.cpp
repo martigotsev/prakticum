@@ -1,0 +1,2 @@
+arrWithoutNumber(arr);
+    // printArr(arr);
