@@ -33,7 +33,7 @@ void strcat(char *firstString, char *secondString)
     int number = strlen(firstString) - 1;
     for (int i = 0; secondString[i] != 0; i++)
     {
-        firstString[number + i] = secondString[i];
+        firstString[number + i+1] = secondString[i];
     }
 }
 int strcmp(char *firstString, char *secondString)
