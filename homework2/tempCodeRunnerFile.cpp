@@ -1,2 +1,0 @@
-arrWithoutNumber(arr);
-    // printArr(arr);
